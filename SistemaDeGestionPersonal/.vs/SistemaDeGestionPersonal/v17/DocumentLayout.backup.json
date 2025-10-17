@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\rivas\\proyectoDAE\\SistemaDeGestionPersonal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AAD9028E-6DD3-46C9-8B1E-03CCC2C9F953}|SistemaDeGestionPersonal\\SistemaDeGestionPersonal.csproj|c:\\users\\rivas\\proyectodae\\sistemadegestionpersonal\\sistemadegestionpersonal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AAD9028E-6DD3-46C9-8B1E-03CCC2C9F953}|SistemaDeGestionPersonal\\SistemaDeGestionPersonal.csproj|C:\\Users\\rivas\\proyectoDAE\\SistemaDeGestionPersonal\\sistemadegestionpersonal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AAD9028E-6DD3-46C9-8B1E-03CCC2C9F953}|SistemaDeGestionPersonal\\SistemaDeGestionPersonal.csproj|solutionrelative:sistemadegestionpersonal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD9028E-6DD3-46C9-8B1E-03CCC2C9F953}|SistemaDeGestionPersonal\\SistemaDeGestionPersonal.csproj|c:\\users\\rivas\\proyectodae\\sistemadegestionpersonal\\sistemadegestionpersonal\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAD9028E-6DD3-46C9-8B1E-03CCC2C9F953}|SistemaDeGestionPersonal\\SistemaDeGestionPersonal.csproj|solutionrelative:sistemadegestionpersonal\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD9028E-6DD3-46C9-8B1E-03CCC2C9F953}|SistemaDeGestionPersonal\\SistemaDeGestionPersonal.csproj|c:\\users\\rivas\\proyectodae\\sistemadegestionpersonal\\sistemadegestionpersonal\\frmasistencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAD9028E-6DD3-46C9-8B1E-03CCC2C9F953}|SistemaDeGestionPersonal\\SistemaDeGestionPersonal.csproj|solutionrelative:sistemadegestionpersonal\\frmasistencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +30,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAsistencias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rivas\\proyectoDAE\\SistemaDeGestionPersonal\\SistemaDeGestionPersonal\\frmAsistencias.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionPersonal\\frmAsistencias.cs",
+              "ToolTip": "C:\\Users\\rivas\\proyectoDAE\\SistemaDeGestionPersonal\\SistemaDeGestionPersonal\\frmAsistencias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaDeGestionPersonal\\frmAsistencias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:16:09.117Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rivas\\proyectoDAE\\SistemaDeGestionPersonal\\SistemaDeGestionPersonal\\frmEmpleados.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionPersonal\\frmEmpleados.cs",
+              "ToolTip": "C:\\Users\\rivas\\proyectoDAE\\SistemaDeGestionPersonal\\SistemaDeGestionPersonal\\frmEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaDeGestionPersonal\\frmEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:49:34.141Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\rivas\\proyectoDAE\\SistemaDeGestionPersonal\\SistemaDeGestionPersonal\\Form1.cs",
               "RelativeDocumentMoniker": "SistemaDeGestionPersonal\\Form1.cs",
-              "ToolTip": "C:\\Users\\rivas\\proyectoDAE\\SistemaDeGestionPersonal\\SistemaDeGestionPersonal\\Form1.cs [Design]",
-              "RelativeToolTip": "SistemaDeGestionPersonal\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\rivas\\proyectoDAE\\SistemaDeGestionPersonal\\SistemaDeGestionPersonal\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaDeGestionPersonal\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T22:05:50.418Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
